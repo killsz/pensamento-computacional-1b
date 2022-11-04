@@ -2,32 +2,32 @@
 <html lang="pt" dir="ltr">
 <head>
     <meta charset='utf-8'>
-    <title> gang mata javali </title>
     <link rel="stylesheet" href="style.css">
   
 </head>
+	<title> gang mata javali </title>
     <div id="navigation">
 					<ul>
 						<li class="selected">
 							<a href="index.html">Home</a>
 						</li>
 						<li>
-							<a href="about.html">About</a>
+							<a href="about.html">Sobre Nós</a>
 						</li>
 						<li>
-							<a href="rooms.html">Rooms</a>
+							<a href="rooms.html">Nosso Blog</a>
 						</li>
 						<li>
-							<a href="dives.html">Dive Site</a>
+							<a href="dives.html">Afiliados</a>
 						</li>
 						<li>
-							<a href="foods.html">Food</a>
+							<a href="foods.html">Imagens</a>
 						</li>
 						<li>
-							<a href="news.html">News</a>
+							<a href="news.html">Novidades</a>
 						</li>
 						<li>
-							<a href="contact.html">Contact</a>
+							<a href="contact.html">Contato</a>
 						</li>
 					</ul>
 				</div>
