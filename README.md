@@ -2,11 +2,35 @@
 <html lang="pt" dir="ltr">
 <head>
     <meta charset='utf-8'>
-    <title>gang mata javali</title>
-    
+    <title> gang mata javali </title>
     <link rel="stylesheet" href="style.css">
   
 </head>
+    <div id="navigation">
+					<ul>
+						<li class="selected">
+							<a href="index.html">Home</a>
+						</li>
+						<li>
+							<a href="about.html">About</a>
+						</li>
+						<li>
+							<a href="rooms.html">Rooms</a>
+						</li>
+						<li>
+							<a href="dives.html">Dive Site</a>
+						</li>
+						<li>
+							<a href="foods.html">Food</a>
+						</li>
+						<li>
+							<a href="news.html">News</a>
+						</li>
+						<li>
+							<a href="contact.html">Contact</a>
+						</li>
+					</ul>
+				</div>
  <body>
     <h1><font color="purple">Olá nos somos os exterminadores de javali</font> </h1>
    
